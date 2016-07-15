@@ -1,0 +1,92 @@
+The information shown below is the output for Part1-workload1
+
+The starting   time of task 1  is  0
+The completion time of task 1  is  2
+No missed deadline
+The starting   time of task 2  is  2
+The completion time of task 2  is  4
+No missed deadline
+The starting   time of task 3  is  5
+The completion time of task 3  is  6
+No missed deadline
+The starting   time of task 4  is  6
+The completion time of task 4  is  8
+No missed deadline
+The starting   time of task 5  is  8
+The completion time of task 5  is  10
+No missed deadline
+The starting   time of task 1  is  10
+The completion time of task 1  is  12
+No missed deadline
+The starting   time of task 2  is  12
+The completion time of task 2  is  14
+No missed deadline
+The starting   time of task 6  is  14
+The completion time of task 6  is  16
+No missed deadline
+The starting   time of task 7  is  16
+The completion time of task 7  is  18
+No missed deadline
+The starting   time of task 8  is  18
+The completion time of task 8  is  20
+No missed deadline
+The starting   time of task 1  is  20
+The completion time of task 1  is  22
+No missed deadline
+The starting   time of task 2  is  22
+The completion time of task 2  is  24
+No missed deadline
+The starting   time of task 3  is  25
+The completion time of task 3  is  26
+No missed deadline
+The starting   time of task 4  is  26
+The completion time of task 4  is  28
+No missed deadline
+The starting   time of task 1  is  30
+The completion time of task 1  is  32
+No missed deadline
+The starting   time of task 2  is  32
+The completion time of task 2  is  34
+No missed deadline
+The starting   time of task 1  is  40
+The completion time of task 1  is  42
+No missed deadline
+The starting   time of task 2  is  42
+The completion time of task 2  is  44
+No missed deadline
+The starting   time of task 3  is  45
+The completion time of task 3  is  46
+No missed deadline
+The starting   time of task 4  is  46
+The completion time of task 4  is  48
+No missed deadline
+The starting   time of task 5  is  48
+The completion time of task 5  is  50
+No missed deadline
+The starting   time of task 1  is  50
+The completion time of task 1  is  52
+No missed deadline
+The starting   time of task 2  is  52
+The completion time of task 2  is  54
+No missed deadline
+The starting   time of task 6  is  54
+The completion time of task 6  is  56
+No missed deadline
+The starting   time of task 1  is  60
+The completion time of task 1  is  62
+No missed deadline
+The starting   time of task 2  is  62
+The completion time of task 2  is  64
+No missed deadline
+The starting   time of task 3  is  65
+The completion time of task 3  is  66
+No missed deadline
+The starting   time of task 4  is  66
+The completion time of task 4  is  68
+No missed deadline
+The starting   time of task 1  is  70
+The completion time of task 1  is  72
+No missed deadline
+The starting   time of task 2  is  72
+The completion time of task 2  is  74
+No missed deadline

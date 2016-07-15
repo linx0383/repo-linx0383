@@ -1,0 +1,10 @@
+workload4
+Task1: Period:25  Deadline:25  Execution Time:8
+Task2: Period:50  Deadline:50  Execution Time:13
+Task3: Period:100  Deadline:100  Execution Time:40
+Response time for w1 is 10. Blocking time is 2
+It meets deadline
+Response time for w2 is 23. Blocking time is 2
+It meets deadline
+Response time for w3 is 98. Blocking time is 0
+It meets deadline
